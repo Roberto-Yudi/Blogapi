@@ -12,6 +12,9 @@ pyyaml = "*"
 uritemplate = "*"
 drf-yasg = "*"
 environs = {extras = ["django"], version = "*"}
+gunicorn = "*"
+whitenoise = "*"
+psycopg2 = "*"
 
 [dev-packages]
 
