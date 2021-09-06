@@ -11,6 +11,7 @@ django-allauth = "*"
 pyyaml = "*"
 uritemplate = "*"
 drf-yasg = "*"
+environs = {extras = ["django"], version = "*"}
 
 [dev-packages]
 
