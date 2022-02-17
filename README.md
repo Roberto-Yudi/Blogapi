@@ -2,10 +2,12 @@
 Este API é baseado no projeto ensinado no livro Django for APIs de William S Vincent
 projeto original: https://github.com/wsvincent/restapiswithdjango
 
-Acesse:https://sample-blogapi.herokuapp.com/api/v1/dj-rest-auth/registration/
+Acesse: https://sample-blogapi.herokuapp.com/api/v1/dj-rest-auth/registration/
 e crie um usuário.
 
 Docs disponível em: https://sample-blogapi.herokuapp.com/swagger/
+
+https://sample-blogapi.herokuapp.com/redoc/
 
 ## Features:
 - DRF, Browsable API, Generic class-based Api views;
